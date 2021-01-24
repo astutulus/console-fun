@@ -1,12 +1,21 @@
 # console-fun
-### Windows console with ascii graphics using C++
 
-** Very much a work in progress **
+Windows console with ascii graphics using C++ 
+**(Work in progress)**
 
-- ConFPS project is a 3D maze. Move around using:
+Summary of projects found in this repo, and keyboard controls:-
 
-`     W`
-`   A S D`
+###ConFPS
+- a 3D maze
+```
+              W
+            A S D      - move around
+```
 
-- ConSimEco project features rabbits eating grass
+###ConSimEco
+- a simulated ecosystem
+- rabbits eat grass
+```
+              G         - sow grass
+```
 
