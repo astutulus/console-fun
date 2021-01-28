@@ -1,11 +1,10 @@
 # console-fun
 Windows Console with ASCII graphics, using C++ 
 
-Below is a summary of projects found in this repo. All are **Work in Progress**.
+Below is a summary of projects in this solution (all are **Work in Progress**), and their keyboard controls:-
 
 ### ConFPS
 - a 3D maze
-*Keyboard controls*
 ```
               W
             A S D      - move around
@@ -16,7 +15,6 @@ Below is a summary of projects found in this repo. All are **Work in Progress**.
 - rabbits eat grass
 - in future, foxes will chase rabbits, etc
 - eventually rocks will block line of sight and water will block passage
-*Keyboard controls*
 ```
               G         - sow grass
 ```
