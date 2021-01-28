@@ -1,21 +1,20 @@
 # console-fun
 Windows Console with ASCII graphics, using C++ 
 
-Below is a summary of projects in this solution (all are **Work in Progress**), and their keyboard controls:-
+One VS Solution, comprising two **Work in Progress** projects:-
 
-### ConFPS
-- a 3D maze
+## ConFPS
+- Console app with "first person shooter" physics
+- Set in a 3D maze
 ```
               W
             A S D      - move around
 ```
 
-### ConSimEco
-- a simulated ecosystem
-- rabbits eat grass
-- in future, foxes will chase rabbits, etc
-- eventually rocks will block line of sight and water will block passage
+## ConSimEco
+- Console app for a simulated ecosystem
+- Rabbits eat grass
+- In future, foxes will chase rabbits, rocks will block line of sight, etc
 ```
               G         - sow grass
 ```
-
